@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm an Electrical and Electronics Engineering Student Studying at Edinburgh Napier University.
+Here are the lists of projects that I have made so far.
+Enjoy!!
 
 <!--
 **KyloKhant/KyloKhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
